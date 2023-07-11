@@ -1,5 +1,3 @@
 # example_website
 Creating an Example Website
-<html>
-  Hello World!
-</html>
+https://moraton.github.io/example_website/
